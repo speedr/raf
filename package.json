@@ -1,0 +1,14 @@
+{
+  "name": "raf",
+  "version": "1.0.0",
+  "description": "Helper for requestAnimationFrame",
+  "license": "MIT",
+  "repository": "speedr/raf",
+  "author": "Florent Cailhol",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "requestAnimationFrame"
+  ]
+}
